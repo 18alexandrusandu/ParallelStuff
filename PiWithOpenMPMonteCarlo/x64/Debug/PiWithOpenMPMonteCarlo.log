@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Alexandru Andercou\source\repos\PiWithOpenMPMonteCarlo\Source.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Alexandru Andercou\source\repos\PiWithOpenMPMonteCarlo\Source.cpp(21,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PiWithOpenMPMonteCarlo.vcxproj -> C:\Users\Alexandru Andercou\source\repos\PiWithOpenMPMonteCarlo\x64\Debug\PiWithOpenMPMonteCarlo.exe
